@@ -13,6 +13,7 @@ In this project, we delve into the realm of Natural Language Processing (NLP) wi
 - **Random Forest Classifier**: Train a Random Forest classifier to predict sentiment labels based on the Bag-of-Words representations of text data.
 - **Streamlit Web App**: Deploy a Streamlit web application to facilitate interactive sentiment analysis predictions for user-provided text inputs.
 
+SentimentX analyser app: https://sentimentanalyzerx-app.streamlit.app
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using `https://github.com/Raghavendra0827/SentimentAnalyzerX.git`.
