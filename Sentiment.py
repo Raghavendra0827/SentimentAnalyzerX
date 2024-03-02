@@ -6,6 +6,7 @@
 
 import pandas as pd
 import nltk
+nltk.download('stopwords')
 import numpy as np
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
