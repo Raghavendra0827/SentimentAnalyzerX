@@ -36,4 +36,8 @@ Raghavendra KN is a passionate data scientist dedicated to leveraging the power 
 
 We extend our gratitude to the Power BI community for their invaluable resources and support, enabling us to push the boundaries of data analytics and visualization.
 
+## Deployed App
+
+Check out the deployed SentimentAnalyzerX at: [SentimentAnalyzerX](https://sentimentanalyzerx-app.streamlit.app/)
+
 ---
